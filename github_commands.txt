@@ -1,0 +1,500 @@
+   52  ls
+   53  rails -v
+   54  ruby -v
+   55  rvm use 2.2.1
+   56  rails new treebook
+   57  ls
+   58  cd treebook/
+   59  ls
+   60  rails server
+   61  rails generate scaffold status name:string content:text
+   62  rake db:migrate
+   63  rails server
+   64  ls
+   65  git init
+   66  git add .
+   67  git commit
+   68  git commit -m "Initalized rails application"
+   69  git remote add origin https://github.com/DuckInWater/treebook.git
+   70  git push -u origin master
+   71  git log
+   72  rails server
+   73  rails server
+   74  ls
+   75  git pull
+   76  git log
+   77  rails s
+   78  ls
+   79  cd ..
+   80  ls
+   81  cd treebook/
+   82  l
+   83  ls
+   84  rails server
+   85  bundle install
+   86  rails server
+   87  rake db:reset
+   88  rake db:migrate
+   89  rails server
+   90  rake routes
+   91  rails generate
+   92  rails generate integration_test custom_routes_test
+   93  rails Itest custom_routes_test_test.rb
+   94  ruby -Itest test/integration/custom_routes_test_test.rb
+   95  ruby -Itest test/integration/custom_routes_test_test.rb
+   96  ruby -Itest test/integration/custom_routes_test_test.rb
+   97  rails s
+   98  ruby -Itest test/controllers/statuses_controller_test.rb
+   99  ruby -Itest test/controllers/statuses_controller_test.rb
+  100  ruby -Itest test/controllers/statuses_controller_test.rb
+  101  ruby -Itest test/controllers/statuses_controller_test.rb
+  102  ruby -Itest test/controllers/statuses_controller_test.rb
+  103  ruby -Itest test/controllers/statuses_controller_test.rb
+  104  ruby -Itest test/controllers/statuses_controller_test.rb
+  105  ruby -Itest test/controllers/statuses_controller_test.rb
+  106  ruby -Itest test/controllers/statuses_controller_test.rb
+  107  ruby -Itest test/controllers/statuses_controller_test.rb
+  108  ruby -Itest test/controllers/statuses_controller_test.rb
+  109  rails s
+  110  rails s
+  111  ruby -Itest test/controllers/statuses_controller_test.rb
+  112  git add .
+  113  git commit
+  114  git push
+  115  git push
+  116  ruby -Itest test/controllers/statuses_controller_test.rb
+  117  ruby -Itest test/controllers/statuses_controller_test.rb
+  118  ruby -Itest test/controllers/statuses_controller_test.rb
+  119  ruby -Itest test/controllers/statuses_controller_test.rb
+  120  ruby -Itest test/controllers/statuses_controller_test.rb
+  121  ruby -Itest test/controllers/statuses_controller_test.rb
+  122  ruby -Itest test/controllers/statuses_controller_test.rb
+  123  ruby -Itest test/controllers/statuses_controller_test.rb
+  124  ruby -Itest test/controllers/statuses_controller_test.rb
+  125  ruby -Itest test/controllers/statuses_controller_test.rb
+  126  ruby -Itest test/controllers/statuses_controller_test.rb
+  127  ruby -Itest test/controllers/statuses_controller_test.rb
+  128  ruby -Itest test/controllers/statuses_controller_test.rb
+  129  ruby -Itest test/controllers/statuses_controller_test.rb
+  130  ruby -Itest tests/models/status_test.rb
+  131  ruby -Itest test/models/status_test.rb
+  132  ruby -Itest test/models/status_test.rb
+  133  ruby -Itest test/models/status_test.rb
+  134  ruby -Itest test/models/status_test.rb
+  135  ruby -Itest test/models/status_test.rb
+  136  ruby -Itest test/models/status_test.rb
+  137  git status
+  138  git commit -am "Add status validations and unit tests and integration tests"
+  139  git push
+  140  git push origin master
+  141  rails s
+  142  rails s
+  143  rake db:reset db:migrate
+  144  rails s
+  145  git diff
+  146  git diff
+  147  rails s
+  148  rails s
+  149  rails s
+  150  rails generate controller profiles show
+  151  git add .
+  152  git commit -m "Generated profiles controller"
+  153  ruby -Itest test/controllers/profiles_controller_test.rb
+  154  ruby -Itest test/controllers/profiles_controller_test.rb
+  155  ruby -Itest test/controllers/profiles_controller_test.rb
+  156  ruby -Itest test/controllers/profiles_controller_test.rb
+  157  ruby -Itest test/controllers/profiles_controller_test.rb
+  158  ls
+  159  cd Desktop/
+  160  ls
+  161  cd ..
+  162  git status
+  163  ls
+  164  cd Desktop/
+  165  git status
+  166  cd FrontendPHP
+  167  ls
+  168  cd ..
+  169  cd FrontendPHP/
+  170  git status
+  171  git checkout -b analytic_dev2
+  172  git push origin web2_dev : {
+  173        host: "54.183.166.211",
+  174        remotePath: "/usr/share/nginx/web2_dev/",
+  175        user: "quoc"
+  176  git status
+  177  git status
+  178  git push origin analytic_dev2
+  179  gulp dist
+  180  ls
+  181    git config --global user.email “long@gfycat.com”
+  182    git config --global user.name “Long Nguyen“
+  183  ls
+  184  cd web
+  185  ls
+  186  nano .env.js 
+  187  gulp sync --upload analytic_dev
+  188  ls
+  189  mv /Users/michaelwei/Downloads/mike.key ~/.ssh/
+  190  mkdir ~/.ssh/
+  191  mv /Users/michaelwei/Downloads/mike.key ~/.ssh/
+  192  ls
+  193  ls
+  194  ls
+  195  cd ~/.ssh/
+  196  ls
+  197  cat mike.key 
+  198  cp mike.key id_rsa
+  199  ls
+  200  ls
+  201  cd ~
+  202  ls
+  203  cd FrontendPHP/
+  204  ls
+  205  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  206  brew install node
+  207  cd web; npm install
+  208  gulp dist
+  209  ls
+  210  cd ..
+  211  ls
+  212  cd ..
+  213  ls
+  214  cd FrontendPHP/
+  215  ls
+  216  cd web/
+  217  ls
+  218  gulp dist
+  219  cd ..
+  220  ls
+  221  cd src/
+  222  ls
+  223  cd Gfy
+  224  ls
+  225  cd ..
+  226  ls
+  227  cd Gfycat/
+  228  ls
+  229  cd ..
+  230  ls
+  231  cd ..
+  232  ls
+  233  ls
+  234  cd web/
+  235  ls
+  236  npm install gulp -g
+  237  npm install gulp --save-dev
+  238  ls
+  239  gulp dist
+  240  gulp sync --upload web2_dev
+  241  ls
+  242  pwd
+  243  gulp sync --upload analytic_dev
+  244  chmod 700 ~/.ssh/id_rsa 
+  245  gulp sync --upload analytic_dev
+  246  ssh  michael@54.183.166.211
+  247  ssh  mike@54.183.166.211
+  248  gulp sync --upload analytic_dev
+  249  gulp sync --upload analytic_dev
+  250  gulp sync --upload analytic_dev
+  251  gulp sync --upload analytic_dev
+  252  gulp sync --upload analytic_dev
+  253  gulp watch --upload analytic_dev
+  254  git pull origin master
+  255  gulp dist
+  256  gulp sync --upload analytic_dev
+  257  gulp sync --upload analytic_dev
+  258  gulp sync --upload analytic_dev
+  259  gulp watch --upload analytic_dev
+  260  gulp watch --upload analytic_dev
+  261  gulp watch --upload analytic_dev
+  262  gulp watch --upload analytic_dev
+  263  gulp watch --upload analytic_dev
+  264  python
+  265  ls
+  266  python
+  267  exit
+  268  history | grep "rails"
+  269  rails Itest test/controllers/profiles_controller_test.rb
+  270  rails -Itest test/controllers/profiles_controller_test.rb
+  271  rails -I test test/controllers/profiles_controller_test.rb
+  272  ruby -Itest test/controllers/profiles_controller_test.rb
+  273  ruby -Itest test/controllers/profiles_controller_test.rb
+  274  ruby -I test test/controllers/profiles_controller_test.rb
+  275  ls
+  276  cd Documents/
+  277  ls
+  278  cd Personal/
+  279  ls
+  280  cd WebDev/
+  281  ls
+  282  cd treebook/
+  283  ruby -Itest test/controllers/profiles_controller_test.rb
+  284  ruby -Itest test/controllers/profiles_controller_test.rb
+  285  ruby -Itest test/controllers/profiles_controller_test.rb
+  286  ruby -Itest test/controllers/profiles_controller_test.rb
+  287  ruby -Itest test/controllers/profiles_controller_test.rb
+  288  rails s
+  289  rails s
+  290  ruby -Itest test/controllers/profiles_controller_test.rb
+  291  ruby -Itest test/controllers/profiles_controller_test.rb
+  292  ruby -Itest test/controllers/profiles_controller_test.rb
+  293  ruby -Itest test/controllers/profiles_controller_test.rb
+  294  ruby -Itest test/controllers/profiles_controller_test.rb
+  295  ruby -Itest test/controllers/profiles_controller_test.rb
+  296  ruby -Itest test/controllers/profiles_controller_test.rb
+  297  ruby -Itest test/controllers/profiles_controller_test.rb
+  298  ruby -Itest test/integration/custom_routes_test_test.rb
+  299  git status
+  300  rails s
+  301  rails db:reset db:migrate
+  302  rake db:reset db:migrate
+  303  rails s
+  304  heroku
+  305  heroku login
+  306  git status
+  307  git add .
+  308  git commit -am "Added validation and tests for being logged in to post or update statuses. Also tried to add gravatar, but looks like I'd need to fix the problem with sending user_id in status first."
+  309  git push
+  310  heroku crate
+  311  heroku create
+  312  git push heroku master
+  313  heroku help keys
+  314  heroku keys:add
+  315  ls
+  316  python
+  317  python
+  318  ls
+  319  cd Documents/
+  320  ls
+  321  cd Personal/
+  322  ls
+  323  mkdir Python
+  324  cd Python/
+  325  ls
+  326  vi pandas_filter.py
+  327  python pandas_filter.py 
+  328  vi pandas_filter.py
+  329  vi pandas_filter.py
+  330  python pandas_filter.py 
+  331  vi pandas_filter.py
+  332  python pandas_filter.py 
+  333  vi pandas_filter.py
+  334  python pandas_filter.py 
+  335  vi pandas_filter.py
+  336  python pandas_filter.py 
+  337  vi pandas_filter.py
+  338  python pandas_filter.py 
+  339  vi pandas_filter.py
+  340  python pandas_filter.py 
+  341  vi pandas_filter.py
+  342  vi pandas_filter.py
+  343  python pandas_filter.py 
+  344  vi pandas_filter.py
+  345  vi pandas_filter.py
+  346  python pandas_filter.py 
+  347  vi pandas_filter.py
+  348  python pandas_filter.py 
+  349  vi pandas_filter.py
+  350  python pandas_filter.py 
+  351  vi pandas_filter.py
+  352  python pandas_filter.py 
+  353  vi pandas_filter.py
+  354  python pandas_filter.py 
+  355  vi pandas_filter.py
+  356  python pandas_filter.py 
+  357  vi pandas_filter.py
+  358  python pandas_filter.py 
+  359  ls
+  360  clear
+  361  node
+  362  node -v
+  363  npm -v
+  364  npm install http-server -g
+  365  cd ..
+  366  ls
+  367  cd WebDev/Thinkful/
+  368  ls
+  369  cd Projects/
+  370  ls
+  371  cd about-me/
+  372  ls
+  373  http-server
+  374  http-server
+  375  cd ..
+  376  ls
+  377  cd about-me/
+  378  ls
+  379  ls
+  380  http-server
+  381  git status
+  382  git add .
+  383  git status
+  384  git commit -m "reorganized html structure"
+  385  git remote -v
+  386  git push origin master
+  387  git config -v
+  388  git config -l
+  389  git config -g user.name "DuckInWater"
+  390  git config --global user.name "Michael Wei"
+  391  git config --global user.email michael.f.wei@gmail.com
+  392  git push origin master
+  393  git push origin master
+  394  ls -al ~/.ssh
+  395  ssh-keygen -t rsa -b 4096 "michael.f.wei@gmail.com"
+  396  ssh-keygen -t rsa -b 4096 -C "michael.f.wei@gmail.com"
+  397  eval "$(ssh-agen -S)"
+  398  eval "$(ssh-agent -S)"
+  399  eval "$(ssh-agent -s)"
+  400  ssh-add ~/.ssh/id_rsa
+  401  pbcopy < ~/.ssh/id_rsa.pub
+  402  pbcopy < ~/.ssh/id_rsa
+  403  pbcopy < ~/.ssh/id_rsa.pub
+  404  ls
+  405  git commit resume.html -m "Added address and meta tags"
+  406  git push origin master
+  407  git add resume.html
+  408  git commit -m "Added CSS classes"
+  409  git push origin master
+  410  git status
+  411  git add .
+  412  git commit -m "added CSS classes"
+  413  git push origin master
+  414  ls
+  415  touch new_file.txt
+  416  ls
+  417  rm new_file.txt 
+  418  git config --global
+  419  git config
+  420  cd ..
+  421  ls
+  422  mkdir test_push
+  423  ls
+  424  cd test_push/
+  425  ls
+  426  touch README.md
+  427  vi README.md
+  428  ls
+  429  git init
+  430  git status
+  431  git add README.md 
+  432  git status
+  433  git commit -m "Initial commit of test file to test repo"
+  434  git status
+  435  git remote add origin https://github.com/DuckInWater/test_push.git
+  436  git push -u origin master
+  437  git status
+  438  git status
+  439  git pull origin master
+  440  cd ..
+  441  ls
+  442  git clone https://github.com/DuckInWater/css_layout_exercises_starter_files.git
+  443  ls
+  444  ls
+  445  cd css_layout_exercises_starter_files/
+  446  ls
+  447  git status
+  448  git add .
+  449  ls
+  450  git status
+  451  git commit -m "Finished adding box layouts to display-exercise.html"
+  452  git push origin master
+  453  ls
+  454  cd ..
+  455  ls
+  456  mkdir hello-world-js
+  457  ls
+  458  cd hello-world-js/
+  459  ls
+  460  touch index.html
+  461  touch app.js
+  462  ls
+  463  git init
+  464  git add .
+  465  git commit -m "Committing files"
+  466  git status
+  467  git remote add origin https://github.com/DuckInWater/hello-world-js.git
+  468  git push -u origin master
+  469  git checkout -b gh-pages
+  470  git status
+  471  git push origin gh-pages
+  472  ls
+  473  cd Documents/Personal/
+  474  ls
+  475  cd WebDev/
+  476  ls
+  477  cd treebook/
+  478  git status
+  479  git add .
+  480  git commit -am "Modified Gemfile to only use sqlite3 in development and test, not in production"
+  481  git push
+  482  git push heroku master
+  483  rake assets:precompile
+  484  git push heroku master
+  485  heroku logs
+  486  git add .
+  487  git commit -am "Added postgres gem to gemfile"
+  488  git push
+  489  bundle install --without production
+  490  git status
+  491  git add .
+  492  git status
+  493  git commit -m "Update gemfile.lock by running bundle install"
+  494  git push
+  495  git push heroku master
+  496  heroku run rake db:migrate
+  497  heroku log
+  498  heroku logs
+  499  git push origin master
+  500  ls
+  501  cd Dropbox/
+  502  ls
+  503  cd Leap\ -\ Personal/
+  504  ls
+  505  cd Web\ Dev/
+  506  ls
+  507  cd Projects/
+  508  cd nearby-app/
+  509  ls
+  510  git init
+  511  clear
+  512  git remote add origin https://github.com/DuckInWater/nearby-app.git
+  513  git remote set origin https://github.com/DuckInWater/nearby-app.git
+  514  git remote set-url origin https://github.com/DuckInWater/nearby-app.git
+  515  git branch -u origin/master
+  516  git pull
+  517  git branch temp git
+  518  git branch tep
+  519  git branch temp
+  520  git branch checkout temp
+  521  git add .
+  522  git commit -v 'Initial commit'
+  523  git commit -m 'Initial commit'
+  524  git checkout master
+  525  git pull
+  526  git status
+  527  git add .
+  528  git commmit
+  529  got commit
+  530  git commit
+  531  git merge temp
+  532  git push
+  533  ssh -keygen
+  534  ssh-keygen
+  535  cat ~/.ssh/id_rsa.pub
+  536  cat ~/.ssh/id_rsa*
+  537  ssh-keygen
+  538  ssh-keygen
+  539  cat ~/.ssh/id_github.pub
+  540  cat ~/.ssh/id_github*
+  541  ls -la ~/.ssh
+  542  cat ~/.ssh/_id_github.pub
+  543  git push
+  544  git remote set-url git@github.com:DuckInWater/nearby-app.git
+  545  git push
+  546  git remote set-url git@github.com:DuckInWater/nearby-app.git
+  547  git remote set-url origin git@github.com:DuckInWater/nearby-app.git
+  548  git push
+  549  git push
+  550  history
+  551  history > hist.txt

@@ -1,0 +1,16 @@
+#results_map {
+ height: 400px;
+ width: 50%;
+ float: left;
+}
+
+#results_list {
+ height: 400px;
+ width: 50%;
+ float: left;
+ overflow: auto;
+}
+
+h1 {
+ padding-bottom: 20px;
+}

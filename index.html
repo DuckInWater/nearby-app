@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet"
+       href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  </head>
+  <body>
+
+    <h1>Nearby Events</h1>
+    <div>
+      <button id='start_button'> Find Events Near Me </button>
+    </div>
+    <div id="results_list"></div>
+    <div id="results_map"></div>
+    <script src="Components/map.js"></script>
+    <script src="Components/list.js"></script>
+    <script src="Services/meetup_for_orchestrator.js"></script>
+    <!-- <script src="yelp.js"></script>
+    <script src="twitter.js"></script>
+    <script src="gmaps.js"></script> -->
+    <!-- <script src="Services/eventbrite.js"></script> -->
+    <script src="app.js"></script>
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA16eMYKZ4AfHPAxYJAbMgPm_ouh-lfKqc">
+    </script>
+  </body>
+</html>
