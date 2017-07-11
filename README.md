@@ -1,6 +1,6 @@
 # NearbyApp
 App for viewing events nearby
-
+ 
 index.html
 
 main.css
